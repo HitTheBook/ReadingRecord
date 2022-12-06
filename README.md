@@ -20,7 +20,7 @@
 
 ## 진행 도서
 
-[질문하기](https://github.com/HitTheBook/ReadingRecord/issues/new?assignees=&labels=%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98+%EC%82%AC%EC%8B%A4%EA%B3%BC+%EC%98%A4%ED%95%B4&template=%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4.md&title=%5B%EB%AA%A9%EC%B0%A8%5D+%EA%B0%84%EB%8B%A8%ED%95%9C+%EC%A0%9C%EB%AA%A9) 객체지향의 사실과 오해 (The Essence of Object-Orientation)
+[[질문하기]](https://github.com/HitTheBook/ReadingRecord/issues/new?assignees=&labels=%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98+%EC%82%AC%EC%8B%A4%EA%B3%BC+%EC%98%A4%ED%95%B4&template=%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4.md&title=%5B%EB%AA%A9%EC%B0%A8%5D+%EA%B0%84%EB%8B%A8%ED%95%9C+%EC%A0%9C%EB%AA%A9) 객체지향의 사실과 오해 (The Essence of Object-Orientation)
 
 ## 예정 도서
 
